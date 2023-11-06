@@ -2,7 +2,7 @@
 
 ## Description
 
-
+As a developer our task is to build a text editor that runs in the browser. The text editor will be a single-page application that meets the PWA criteria. Starter code with an existing application will be provided and we must implement methods for getting and storing data to an IndexedDB database. The following package idb must be installed and it features a number of methods that are useful for storing and retrieving data.
 
 ## User Story
 
