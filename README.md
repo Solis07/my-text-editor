@@ -66,6 +66,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Heroku Link
 
-[Link]()
+[Link](https://the-awesome-text-editor-0ed6571661b6.herokuapp.com/)
 
 
